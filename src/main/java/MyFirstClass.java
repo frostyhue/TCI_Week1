@@ -29,7 +29,4 @@ public class MyFirstClass {
         public int getPrice(){
             return this.price;
         }
-
-
-
 }
